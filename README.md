@@ -11,3 +11,10 @@ Responder inadecuadamente, presenta una pantalla de desaprobación y luego de pr
 
 Luego de responder correctamente a todas las preguntas se presentará una pantalla de felicitación y mediante el botón “Reiniciar” es posible volver a la pantalla de presentación y participar en el juego nuevamente. 
 
+# Descripción del repositorio
+En el repositorio se encuentran 4  documentos
+1.	PRUEBA_TECNICA_Airon_Ruda - Storyline output que fue generado al guardar el proyecto
+2.	PRUEBA TECNICA.story que también fue generado al guardar el proyecto y puede ser ejecutado si se cuenta con el “storyline 360” que “articulate 360” ofrece
+3.	PRUEBA_TECNICA_Airon_Ruda.zip que consiste en el proyecto comprimido y listo para ser cargado en un navegador
+4.	Documento “README” QUE CONTIENE LA DESCRIPCION DEL JUEGO Y DEL REPOSITORIO.
+
